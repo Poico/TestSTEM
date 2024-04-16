@@ -1,0 +1,14 @@
+{
+  "HEAL":{
+    "title": "HEAL",
+    "logo": "LITAPP_Heal_C.png",
+    "Description": "Potato Potato",
+    "Page": "Heal.html"
+  },
+  "ProtonFootBall":{
+    "title": "Proton Football",
+    "logo": "LITAPP_PF_B.png",
+    "Description": "Potato",
+    "Page": "ProtonFootball.html"
+  }
+} 
