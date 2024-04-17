@@ -3,12 +3,12 @@
     "title": "HEAL",
     "logo": "Heal/LITAPP_Heal_C.png",
     "Description": "Potato Potato",
-    "Page": "Heal.html"
+    "Page": "Heal/Heal.html"
   },
   "ProtonFootBall":{
     "title": "Proton Football",
     "logo": "Proton_FootBall/LITAPP_PF_B.png",
     "Description": "Potato",
-    "Page": "ProtonFootball.html"
+    "Page": "Proton_FootBall/ProtonFootball.html"
   }
 } 
