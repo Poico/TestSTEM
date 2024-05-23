@@ -3,12 +3,14 @@
     "title": "HEAL",
     "logo": "Heal/LITAPP_Heal_C.png",
     "Description": "Potato Potato",
-    "Page": "Heal/Heal.html"
+    "Page": "Heal/Heal.html",
+    "Author": "MediaLab"
   },
   "ProtonFootBall":{
     "title": "Proton Football",
     "logo": "Proton_FootBall/LITAPP_PF_B.png",
-    "Description": "Potato",
-    "Page": "Proton_FootBall/ProtonFootBall.html"
+    "Description": "It's a game that turns players into particle accelators for them to understand how did the Higgs Boson was discovered",
+    "Page": "Proton_FootBall/ProtonFootBall.html",
+    "Author": "MediaLab"
   }
 } 
