@@ -2,6 +2,7 @@
   "HEAL":{
     "title": "HEAL",
     "logo": "Heal/LITAPP_Heal_C.png",
+    "config": "Heal/config.json",
     "Description": "It's a game that explains how physic advacements can help in medicine",
     "Page": "Heal/Heal.html",
     "Author": "MediaLab"
@@ -9,6 +10,7 @@
   "ProtonFootBall":{
     "title": "Proton Football",
     "logo": "Proton_FootBall/LITAPP_PF_B.png",
+    "config": "Proton_FootBall/config.json",
     "Description": "It's a game that turns players into particle accelators for them to understand how did the Higgs Boson was discovered",
     "Page": "Proton_FootBall/ProtonFootBall.html",
     "Author": "MediaLab"
