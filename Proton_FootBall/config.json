@@ -1,7 +1,7 @@
 [
   {
     "ImageName": "LITAPP_PF_B.png",
-    "assetBundleName": "holycube",
+    "assetBundleName": "assetProtonFootball",
     "WebPage": "ProtonFootBall.html",
     "WebSocketMsg": "ProtonFootBall",
     "elementName": "PF",
