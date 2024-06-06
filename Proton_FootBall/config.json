@@ -4,6 +4,7 @@
     "assetBundleName": "assetProtonFootball",
     "WebPage": "ProtonFootBall.html",
     "WebSocketMsg": "ProtonFootBall",
+    "webDirectory": "web",
     "elementName": "PF",
     "dllName": "PF.dll",
   }
