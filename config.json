@@ -14,5 +14,14 @@
     "Description": "It's a game that turns players into particle accelators for them to understand how did the Higgs Boson was discovered",
     "Page": "Proton_FootBall/ProtonFootBall.html",
     "Author": "MediaLab"
+  },
+  "AirSig":{
+    "title": "Air Signature",
+    "logo": "AirSig/logo.png",
+    "websocketmsg": "AirSig",
+    "Description": "It's a application that lets u do a signature in the air and then it will be saved in the cloud",
+    "Page": "AirSig/AirSig.html",
+    "Author": "MediaLab"
   }
+
 } 
