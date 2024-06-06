@@ -1,8 +1,10 @@
 [
   {
     "ImageName": "LITAPP_PF_B.png",
-    "AdressableName": "AdressableProtonFootBall.txt",
+    "assetBundleName": "holycube",
     "WebPage": "ProtonFootBall.html",
-    "WebSocketMsg": "ProtonFootBall"
+    "WebSocketMsg": "ProtonFootBall",
+    "elementName": "PF",
+    "dllName": "PF.dll",
   }
 ]
