@@ -6,6 +6,6 @@
     "WebSocketMsg": "ProtonFootBall",
     "webDirectory": "web",
     "elementName": "PF",
-    "dllName": "PF.dll",
+    "dllName": "PF.dll"
   }
 ]
