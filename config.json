@@ -1,6 +1,7 @@
 {
   "HEAL":{
     "title": "HEAL",
+    "directory": "Heal",
     "logo": "Heal/LITAPP_Heal_C.png",
     "websocketmsg": "HEAL",
     "Description": "It's a game that explains how physic advacements can help in medicine",
@@ -9,6 +10,7 @@
   },
   "ProtonFootBall":{
     "title": "Proton Football",
+    "directory": "Proton_FootBall",
     "logo": "Proton_FootBall/LITAPP_PF_B.png",
     "websocketmsg": "PROTONFOOTBALL",
     "Description": "It's a game that turns players into particle accelators for them to understand how did the Higgs Boson was discovered",
@@ -17,6 +19,7 @@
   },
   "AirSig":{
     "title": "Air Signature",
+    "directory": "AirSig"
     "logo": "AirSig/logo.png",
     "websocketmsg": "AirSig",
     "Description": "It's a application that lets u do a signature in the air and then it will be saved in the cloud",
