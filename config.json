@@ -19,7 +19,7 @@
   },
   "AirSig":{
     "title": "Air Signature",
-    "directory": "AirSig"
+    "directory": "AirSig",
     "logo": "AirSig/logo.png",
     "websocketmsg": "AirSig",
     "Description": "It's a application that lets u do a signature in the air and then it will be saved in the cloud",
